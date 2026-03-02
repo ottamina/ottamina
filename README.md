@@ -16,7 +16,6 @@
 <a href="https://linkedin.com/in/osman-teksoy-9975912a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="osman-teksoy-9975912a2/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/26707581" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="26707581" height="30" width="40" /></a>
 <a href="https://instagram.com/ottaminaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ottaminaa" height="30" width="40" /></a>
-<a href="https://medium.com/@oteksoy53" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" alt="@oteksoy53" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ottamina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ottamina" height="30" width="40" /></a>
 </p>
 
