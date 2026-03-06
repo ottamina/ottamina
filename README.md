@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ottamina&label=Profile%20views&color=0e75b6&style=flat" alt="ottamina" /> </p>
 
-- 🔭 I’m currently working on **Mobile App Developing**
+- 🔭 I’m currently working on **.NET Core**
 
-- 🌱 I’m currently learning **Kotlin, Java**
+- 🌱 I’m currently learning **MVC And Wep Api**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ottamina](https://github.com/ottamina)
 
