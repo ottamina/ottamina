@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/github-pixel-banner.gif" alt="Pixel-art developer workspace" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Osman Teksoy</h1>
 <h3 align="center">Computer Engineering student at Sakarya University</h3>
 
