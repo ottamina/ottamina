@@ -7,13 +7,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ottamina&label=Profile%20views&color=0e75b6&style=flat" alt="ottamina" /> </p>
 
-- 🔭 I’m currently working on **.NET Core**
+-  I’m currently working on **.NET Core**
 
-- 🌱 I’m currently learning **MVC And Wep Api**
+-  I’m currently learning **WEB API**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ottamina](https://github.com/ottamina)
+-  All of my projects are available at [https://github.com/ottamina](https://github.com/ottamina)
 
-- 📫 How to reach me **oteksoy53@gmail.com**
+-  How to reach me **oteksoy53@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
